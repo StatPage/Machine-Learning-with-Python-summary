@@ -1,4 +1,4 @@
-# Machine-Learning-with-Python-Cookbook-summary
+# Machine-Learning-with-Python-summary
 
 기본 용어
 1. 샘플: 관측 단위
